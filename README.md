@@ -1,4 +1,5 @@
-# NewsApp
+# NewsApp 
+#Full programmatically
 
 This project will be able to read the current Turkey news.
 You will see the news title , description and related photo of the news.
